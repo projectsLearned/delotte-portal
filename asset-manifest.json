@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectsLearned/delotte-portal.git/static/css/main.3b71cc2a.css",
+    "main.js": "/projectsLearned/delotte-portal.git/static/js/main.ed5d4548.js",
+    "static/js/453.3a741f10.chunk.js": "/projectsLearned/delotte-portal.git/static/js/453.3a741f10.chunk.js",
+    "index.html": "/projectsLearned/delotte-portal.git/index.html",
+    "main.3b71cc2a.css.map": "/projectsLearned/delotte-portal.git/static/css/main.3b71cc2a.css.map",
+    "main.ed5d4548.js.map": "/projectsLearned/delotte-portal.git/static/js/main.ed5d4548.js.map",
+    "453.3a741f10.chunk.js.map": "/projectsLearned/delotte-portal.git/static/js/453.3a741f10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.ed5d4548.js"
+  ]
+}
